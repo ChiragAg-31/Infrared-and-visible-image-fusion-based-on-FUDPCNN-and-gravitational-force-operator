@@ -1,6 +1,7 @@
 This package contains the matlab code of the following paper:
 
-Infrared and visible image fusion based on FUDPCNN and gravitational force operator (Currently, Under review in the journal "Signal, Image and Video Processing")
+Bansal, K., Kumar, V., Agrawal, C. et al. "Infrared and visible image fusion based on FUDPCNN and gravitational force operator." Signal, Image and Video Processing (2024). 
+https://doi.org/10.1007/s11760-024-03367-y 
 
 Usage of this code is free for research purposes only.
 
